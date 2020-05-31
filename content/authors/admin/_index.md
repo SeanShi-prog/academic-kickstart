@@ -14,7 +14,7 @@ role: student
 
 # Organizations/Affiliations
 organizations:
-- name: Hefei University of technology
+- name: Hefei University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
